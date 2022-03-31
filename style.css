@@ -17,7 +17,7 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  background-color: pink;
+  background-color: slategray;
   color: white;
 }
 h1 {
@@ -52,7 +52,23 @@ button {
 }
 
 #button4 {
-  background: lightyellow;
+  background: #ffff99;
+}
+
+#button5 {
+  background: #DDA0DD;
+}
+
+#button6 {
+  background: #ffcc99;
+}
+
+#button7 {
+  background: #ccffff;
+}
+
+#button8 {
+  background: #d9b38c;
 }
 
 #button1:active,
@@ -73,6 +89,26 @@ button {
 #button4:active,
 #button4.lit {
   background: yellow;
+}
+
+#button5:active,
+#button5.lit {
+  background: #663399;
+}
+
+#button6:active,
+#button6.lit {
+  background: #ff9900;
+}
+
+#button7:active,
+#button7.lit {
+  background: #66ffff;
+}
+
+#button8:active,
+#button8.lit {
+  background: #ac7339;
 }
 
 /* images and videos max out at full width */
