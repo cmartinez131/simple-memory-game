@@ -1,4 +1,4 @@
-## Pre-work - *Memory Game*
+# Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
@@ -63,7 +63,7 @@ A challenge I encountered was working with a fairly new coding language. I have 
 - How does web development fit into a business?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
 If I had a few more hours to work on this project I would start by changing the buttons to images. I think having just the colors light up are pretty boring. I would put interesting images, like animals and make the sounds animal noises instead of different frequencies. When I let someone play it, they said that the sounds were pretty boring so I would change it to make the user experience more entertaining. I would have a button that would activate different game modes, for example having a hard difficutly version that has the sounds speed up as you progress in the game. I think people would be more likely to enjoy playing it if it were more challenging and interesting graphics. There is already a function that holds the sounds, so I assume I would just have to find a package that has sounds I want and put it in this function. Maybe I can also make use of the "hidden" feature that was in one of the instructions to make some of the squares dissapear every turn. This will add to the difficulty.
 
 
